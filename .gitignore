@@ -1,0 +1,12 @@
+.env
+env.json
+docs
+package-lock.json
+.git
+.DS_Store
+node_modules
+jest
+__tests__
+__tests__lighthouse
+dist
+docs

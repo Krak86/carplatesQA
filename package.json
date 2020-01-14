@@ -1,0 +1,36 @@
+{
+  "name": "carplates",
+  "version": "1.0.0",
+  "description": "Car plates recognizer",
+  "main": "webpack.config.js",
+  "keywords": [
+    "car plate",
+    "car plates",
+    "car plate recognizer"
+  ],
+  "homepage": "https://github.com/Krak86/carplates",
+  "bugs": {
+    "email": "rukrak86@gmail.com",
+    "url": "https://github.com/Krak86/carplates/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "author": {
+    "name": "Ruslan Korkin",
+    "email": "rukrak86@gmail.com",
+    "url": "https://github.com/krak86"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krak86/carplates.git"
+  },
+  "engines": {
+    "node": ">=12.1.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d docs"
+  }
+}
